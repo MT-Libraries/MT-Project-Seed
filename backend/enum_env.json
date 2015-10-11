@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "port": 8032,
+        "trust": false,
+        "dev": true,
+        "cdn_lib": ""
+    },
+    "pro": {
+        "port": 8084,
+        "trust": false,
+        "dev": false,
+        "cdn_lib": ""
+    },
+    "test": {
+        "port": 8032,
+        "trust": false,
+        "dev": false,
+        "cdn_lib": ""
+    }
+}
